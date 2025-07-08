@@ -46,11 +46,11 @@ const Navbar = () => {
                 Action
               </a>
             </li>
-            <li>
+            {/* <li>
               <a className="dropdown-item" href="#">
                 Another action
               </a>
-            </li>
+            </li> */}
             <li>
               <hr className="dropdown-divider" />
             </li>
